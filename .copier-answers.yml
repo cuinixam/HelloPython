@@ -1,0 +1,14 @@
+# Changes here will be overwritten by Copier
+_commit: '5055866'
+_src_path: .
+copyright_year: '2025'
+documentation: true
+email: cuinixam@me.com
+full_name: cuinixam
+github_username: cuinixam
+open_source_license: MIT
+package_name: hello_python
+project_name: Hello Python
+project_short_description: Playground for Python
+project_slug: hello-python
+
